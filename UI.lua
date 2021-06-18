@@ -933,3 +933,7 @@ for i = 1, 5 do
 end
 dupe.tab:updateScroll()
 ]]
+
+return {
+	ui = ui;
+}
